@@ -18,7 +18,7 @@ A foundational API template built with Go, featuring routing, middleware, config
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/k4r1nxz/go-base-api
    cd go-base-api
    ```
 
